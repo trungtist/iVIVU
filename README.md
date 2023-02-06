@@ -1,1 +1,1 @@
-#Quản lý dự án phần mềm quản lý Tour du lịch iVIVU
+#Project Managemnet Tour Management Software
